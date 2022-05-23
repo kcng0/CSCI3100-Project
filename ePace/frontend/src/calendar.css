@@ -1,0 +1,13 @@
+.fc {
+    color: black;
+    background-color: white; 
+    padding: 1%;
+}
+
+.fc a {
+    color: black !important;
+}
+
+.fc a:hover {
+    color: lightblue !important;
+}
